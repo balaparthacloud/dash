@@ -1,3 +1,0 @@
-user : U0001
-key id :AKIA5GJIICDXFBSADTMN
-secret key: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
